@@ -1,0 +1,67 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "News"
+    url: /latest_news/
+  - title: "Download"
+    url: /download/
+  - title: "Documentation"
+    url: /documentation/
+  - title: "Community"
+    url: /mailing_lists/
+  - title: "Support"
+    url: /support/
+about:
+  - title: About
+    children:
+      - title: "Introduction"
+        url: /about/
+      - title: "License"
+        url: /license/
+      - title: "EOL Information"
+        url: /eol/
+      - title: "FAQ"
+        url: /faq/
+      - title: "Pgpool-II Logos"
+        url: /logos/
+news:
+  - title: News
+    children:
+      - title: "Latest News"
+        url: /latest_news/
+      - title: "News Archive"
+        url: /news_archive/
+download:
+  - title: Downloads
+    children:
+      - title: "Downloads"
+        url: /download/
+      - title: "Yum Repository"
+        url: /download/yum/
+      - title: "Apt Repository"
+        url: /download/apt/
+      - title: "Source"
+        url: /download/source/
+      - title: "Git Repository"
+        url: /download/git/
+documentation:
+  - title: 
+    children:
+      - title: "Documentation"
+        url: /documentation/
+      - title: "Blog Posts"
+        url: /blogs/
+      - title: "Conference Presentations"
+        url: /slides/
+community:
+  - title: Community
+    children:
+      - title: "Mailing Lists"
+        url: /mailing_lists/
+      - title: "Bug Reports"
+        url: /bug_reports/
+      - title: "TODO"
+        url: /todo/
