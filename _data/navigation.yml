@@ -23,6 +23,8 @@ about:
         url: /license/
       - title: "EOL Information"
         url: /eol/
+      - title: "Roadmap"
+        url: /roadmap/
       - title: "FAQ"
         url: /faq/
       - title: "Pgpool-II Logos"
