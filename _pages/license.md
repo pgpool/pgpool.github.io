@@ -9,7 +9,7 @@ toc: false
 layout: single
 ---
 
-Copyright (c) 2003-2026 PgPool Global Development Group
+Copyright (c) 2003-{{ site.time | date: "%Y" }} PgPool Global Development Group
 
 Permission to use, copy, modify, and distribute this software and its documentation
 for any purpose and without fee is hereby granted, provided that the above copyright
