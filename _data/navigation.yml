@@ -27,6 +27,8 @@ about:
         url: /roadmap/
       - title: "FAQ"
         url: /faq/
+      - title: "Case Studies"
+        url: /case_studies/
       - title: "Pgpool-II Logos"
         url: /logos/
 news:
