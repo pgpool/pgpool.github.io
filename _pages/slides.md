@@ -9,6 +9,9 @@ toc: true
 layout: single
 ---
 
+### [Pgpool-II: An Introduction to High-Availability and Performance Optimization for PostgreSQL](https://eventyay.com/e/b85fd0f2/session/10237)
+  at [FOSSASIA PGDay 2026](https://eventyay.com/e/b85fd0f2) (English, PDF) (2026/03/10)
+
 ### [PostgreSQLによるクラスタ運用および負荷分散術](https://www.sraoss.co.jp/wp-content/uploads/files/event_seminar/material/2019/dbtech2019-sraoss-postgresql-cluster.pdf)
   at [db tech showcase Tokyo 2019](https://www.db-tech-showcase.com/dbts/tokyo) (Japanese, PDF) (2019/09/25)
 
