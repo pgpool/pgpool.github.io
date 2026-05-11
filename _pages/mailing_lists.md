@@ -4,7 +4,7 @@ permalink: /mailing_lists/
 sidebar:
   nav: "community"
 excerpt: "Pgpool-II community."
-last_modified_at: 2026-03-26
+last_modified_at: 2026-05-11
 toc: true
 layout: single
 ---
@@ -43,6 +43,6 @@ PostgreSQL community account if you don't have it yet.
 
 | Mailing list      | Description                                   | Archives   |
 | ----------------- | --------------------------------------------- | -----------|
-| [pgpool-general](https://lists.pgfoundry.org/mailman/listinfo/pgpool-general)    | General discussion about pgpool.              | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-general/)   |
-| [pgpool-hackers](https://lists.pgfoundry.org/mailman/listinfo/pgpool-hackers) | General discussion about pgpool  in Japanese. | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-hackers/)   |
-| [pgpool-commiters](https://lists.pgfoundry.org/mailman/listinfo/pgpool-committers)    | Hackers discussion about pgpool.              | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-committers/)   |
+| pgpool-general    | General discussion about pgpool.              | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-general/)   |
+| pgpool-hackers    | General discussion about pgpool in Japanese.  | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-hackers/)   |
+| pgpool-commiters  | Hackers discussion about pgpool.              | [Archives](https://www.pgpool.net/pipermail/pgfoundry/pgpool-committers/)   |

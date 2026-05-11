@@ -4,7 +4,7 @@ permalink: /download/
 sidebar:
   nav: "download"
 excerpt: "Downloads."
-last_modified_at: 2026-03-26
+last_modified_at: 2026-05-11
 toc: false
 layout: single
 ---
@@ -16,7 +16,7 @@ distributions, allowing you to install Pgpool-II quickly and easily without the 
 compilation. The Pgpool Global Development Group currently provides binary packages in
 RPM format only.
 
-If you are using an APT-based system (such as Debian or Ubuntu), please use the packages provided by the [PostgreSQL community](/apt/).
+If you are using an APT-based system (such as Debian or Ubuntu), please use the packages provided by the [PostgreSQL community](/download/apt/).
 
 For users who prefer customization or need to build Pgpool in a specific environment,
 the [source code](/source/) is also available. You can download it from [here](/download/source/),

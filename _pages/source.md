@@ -4,7 +4,7 @@ permalink: /download/source/
 sidebar:
   nav: "download"
 excerpt: "Pgpool-II source code."
-last_modified_at: 2026-03-26
+last_modified_at: 2026-05-11
 toc: true
 layout: single
 ---
@@ -96,9 +96,9 @@ layout: single
 
 ## Legacy versions
 
-[Legacy versions](http://www-test.pgpool.net/source/legacy_versions/)
+[Legacy versions](/source/legacy_versions/)
 
 ## Development versions
 
-[Development versions](http://www-test.pgpool.net/source/development_versions/)
+[Development versions](/source/development_versions/)
 
