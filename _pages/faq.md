@@ -272,7 +272,7 @@ process's pool will be resued equally.
 
 Certain libraries such as iBatis, MyBatis always rollback transactions if they are not
 explicitely committed. Pgpool never caches SELECTs result in a rollbacked transaction
-because they might not be inconsistent.
+because they might not be consistent.
 
 ### Can I use # comments or blank lines in pool_passwd?
 
