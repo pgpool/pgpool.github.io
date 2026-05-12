@@ -2,7 +2,7 @@
 title: "Support"
 permalink: /support/
 excerpt: "Pgpool-II support."
-last_modified_at: 2026-03-26
+last_modified_at: 2026-05-12
 toc: true
 layout: single
 ---
@@ -17,6 +17,7 @@ Community support is available through [mailing lists](/mailing_lists/) and [Git
 
 * If you believe you have found a bug, please report it via GitHub Issues. See [here](/bug_reports/) for details on how to report a bug.
 
+* If you believe that you found a vulnerability/security issues with Pgpool-II, please send a private email to pengbo at sraoss.co.jp (she is the project leader).
 
 ## Commercial Support
 
