@@ -4,7 +4,7 @@ permalink: /roadmap/
 sidebar:
   nav: "about"
 excerpt: "Pgpool-II roadmap."
-last_modified_at: 2026-03-26
+last_modified_at: 2026-05-22
 toc: true
 layout: single
 ---
@@ -19,7 +19,7 @@ between these scheduled dates.
 
 The current schedule for upcoming releases is: 
 
-* May 21st, 2026
+* May 22nd, 2026
 * August 20th, 2026
 * November 19th, 2026
 * February 18th, 2027
