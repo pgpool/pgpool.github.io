@@ -19,6 +19,8 @@ Community support is available through [mailing lists](/mailing_lists/) and [Git
 
 * If you believe that you found a vulnerability/security issues with Pgpool-II, please send a private email to pengbo at sraoss.co.jp (she is the project leader).
 
+* Please note that the Pgpool-II community does not offer bug bounties.
+
 ## Commercial Support
 
 Commercial support for Pgpool-II is available from **[SRA OSS K.K.](https://www.sraoss.co.jp/index_en.php)**
