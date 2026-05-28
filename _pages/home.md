@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Download Now"
       url: "/download/"
-    - label: "<i class='fas fa-file-lines'></i> Documetation"
+    - label: "<i class='fas fa-file-lines'></i> Documentation"
       url: "/documentation/"
 excerpt: >
   Feature-rich, open-source middleware for PostgreSQL connection pooling, load balancing and high availability.<br />
