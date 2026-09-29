@@ -15,6 +15,7 @@ layout: single
 
 | Version | Release Date | Size    | Source | Type |
 |---------|--------------|---------|--------|------|
+| 4.7.3   | 2026-09-29   | 5.85 MB | [Download](/source/pgpool-II-4.7.3.tar.gz) | Source .gz |
 | 4.7.2   | 2026-06-04   | 5.69 MB | [Download](/source/pgpool-II-4.7.2.tar.gz) | Source .gz |
 | 4.7.1   | 2026-02-26   | 5.38 MB | [Download](/source/pgpool-II-4.7.1.tar.gz) | Source .gz |
 | 4.7.0   | 2025-12-23   | 5.35 MB | [Download](/source/pgpool-II-4.7.0.tar.gz) | Source .gz|
@@ -23,6 +24,7 @@ layout: single
 
 | Version | Release Date | Size    | Source | Type |
 |---------|--------------|---------|--------|------|
+| 4.6.8   | 2026-09-29   | 5.85 MB | [Download](/source/pgpool-II-4.6.8.tar.gz) | Source .gz |
 | 4.6.7   | 2026-06-04   | 5.73 MB | [Download](/source/pgpool-II-4.6.7.tar.gz) | Source .gz |
 | 4.6.6   | 2026-02-26   | 5.44 MB | [Download](/source/pgpool-II-4.6.6.tar.gz) | Source .gz |
 | 4.6.5   | 2025-12-15   | 5.41 MB | [Download](/source/pgpool-II-4.6.5.tar.gz) | Source .gz |
@@ -36,6 +38,7 @@ layout: single
 
 | Version | Release Date | Size    | Source | Type |
 |---------|--------------|---------|--------|------|
+| 4.5.13  | 2026-09-29   | 5.68 MB | [Download](/source/pgpool-II-4.5.13.tar.gz)| Source .gz |
 | 4.5.12  | 2026-06-04   | 5.59 MB | [Download](/source/pgpool-II-4.5.12.tar.gz)| Source .gz |
 | 4.5.11  | 2026-02-26   | 5.32 MB | [Download](/source/pgpool-II-4.5.11.tar.gz)| Source .gz |
 | 4.5.10  | 2025-12-15   | 5.28 MB | [Download](/source/pgpool-II-4.5.10.tar.gz)| Source .gz |
@@ -54,6 +57,7 @@ layout: single
 
 | Version | Release Date | Size    | Source | Type |
 |---------|--------------|---------|--------|------|
+| 4.4.18  | 2026-09-29   | 5.31 MB | [Download](/source/pgpool-II-4.4.18.tar.gz) | Source .gz |
 | 4.4.17  | 2026-06-04   | 5.25 MB | [Download](/source/pgpool-II-4.4.17.tar.gz) | Source .gz |
 | 4.4.16  | 2026-02-26   | 5.02 MB | [Download](/source/pgpool-II-4.4.16.tar.gz) | Source .gz |
 | 4.4.15  | 2025-12-15   | 5 MB    | [Download](/source/pgpool-II-4.4.15.tar.gz) | Source .gz |
@@ -77,6 +81,7 @@ layout: single
 
 | Version | Release Date | Size    | Source | Type |
 |---------|--------------|---------|--------|------|
+| 4.3.21  | 2026-09-29   | 5.13 MB | [Download](/source/pgpool-II-4.3.21.tar.gz) | Source .gz |
 | 4.3.20  | 2026-06-04   | 5.10 MB | [Download](/source/pgpool-II-4.3.20.tar.gz) | Source .gz |
 | 4.3.19  | 2026-02-26   | 4.88 MB | [Download](/source/pgpool-II-4.3.19.tar.gz) | Source .gz |
 | 4.3.18  | 2025-12-15   | 4.86 MB | [Download](/source/pgpool-II-4.3.18.tar.gz) | Source .gz |
